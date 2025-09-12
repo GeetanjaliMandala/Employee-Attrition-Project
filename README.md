@@ -45,9 +45,8 @@ salary
   - **Donut Chart**: Stayed vs Left.  
   - **Bar Charts**: Attrition by Department, Salary Level, Promotion History.  
   - **Line Chart**: Satisfaction vs Average Monthly Hours (with trendline)
-  - 
-## 📂 Repository Structure  
 
+## 📂 Repository Structure  
 📦 Employee-Attrition-Project
 ┣ 📜 Emp_attriton_project1.ipynb ← Jupyter Notebook (EDA + ML models)
 ┣ 📜 Employee_Attrition_Insights(1).xlsx ← Cleaned dataset for dashboards
